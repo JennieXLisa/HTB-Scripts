@@ -5,6 +5,7 @@ Sometimes script should be edited before running.
 ## List of scripts
 - **emdee_five_for_life.py** (Challenges > Web > Emdee five for life) for fast MD5 hash request
 - **longbottom_locker.py** (Challenges > Misc > Longbottom's Locker) for decoding file
+- **brainy.py** (Challenges > Crypto > Brainy's Cipher) for decode data using chinese remainder algorithm from number values
 
 <p align="center">
 <a href="https://www.hackthebox.eu/home/users/profile/139588"><img src="https://www.hackthebox.eu/badge/image/139588" alt="Hack The Box"></a>
