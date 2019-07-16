@@ -8,6 +8,7 @@ Sometimes script should be edited before running.
 - **brainy.py** (Challenges > Crypto > Brainy's Cipher) for decode data using chinese remainder algorithm from number values
 - **Eternal_Loop.py** (Challenges > Misc > Eternal Loop) for unzipping archive loop
 - **Not_Art.py** (Challenges > Stego > Not Art) to process RGB values of file to text
+- **Craft_exploit.py** (Box > Craft) to create a reverse shell of exploitable API code
 
 <p align="center">
 <a href="https://www.hackthebox.eu/home/users/profile/139588"><img src="https://www.hackthebox.eu/badge/image/139588" alt="Hack The Box"></a>
